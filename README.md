@@ -35,4 +35,3 @@ Each query links to the `.sql` file I created with a screenshot of the output sh
 
 ---
 
-Feel free to click the query files to see the SQL, and scroll to the screenshots to view the outputs. 🚀
