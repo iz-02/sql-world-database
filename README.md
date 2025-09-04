@@ -7,7 +7,8 @@ Each query links to the `.sql` file I created with a screenshot of the output sh
 ---
 
 ### 1️⃣ Biggest city in each country
-**Query file:** [queries/biggest_city_per_country.sql](queries/biggest_city_per_country.sql)  
+**Query file:** [biggest_city_per_country.sql](biggest_city_per_country.sql)
+
 **Output:**  
 <img width="1915" height="700" alt="biggest_city" src="https://github.com/user-attachments/assets/b8479523-208e-4e97-8603-d5357e05f9af" />
 
