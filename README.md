@@ -1,8 +1,8 @@
 # World Database SQL Practice
 
-This repository contains intermediate SQL practice queries I ran on the **World database**, focusing on joins, subqueries, CASE statements, GROUP BY, and HAVING clauses.  
+This repository contains intermediate SQL practice queries I ran on the World database, focusing on intermediate/advanced skills. 
 
-Each query links to the `.sql` file I created in the `queries/` folder, with a screenshot of the output shown below it.
+Each query links to the `.sql` file I created with a screenshot of the output shown below it.
 
 ---
 
